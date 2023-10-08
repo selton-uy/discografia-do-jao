@@ -214,6 +214,9 @@ body{
     padding: 2%;
     border-radius: 50%;
 }
+.rodape__link{
+    color: #F5F5F5;
+}
 @media (max-width: 1000px){
     .cabecalho__links{
         font-size: 1.2rem;
